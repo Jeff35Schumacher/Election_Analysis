@@ -30,4 +30,4 @@ The analysis of the election shows that:
 ## Challenge Overview
 
 
-## Challeng Summary
+## Challenge Summary
